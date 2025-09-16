@@ -96,14 +96,12 @@ Workshop on unit testing in Java using JUnit 5 and Mockito.
 2. Read the README.md for specific instructions
 3. Implement the tests following the TODO comments
 4. Run tests frequently to get immediate feedback
-5. Ask for help when stuck!
 
 ## Additional Resources
 
 - [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
 - [Mockito Documentation](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
 - [AssertJ Documentation](https://assertj.github.io/doc/)
-- [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Michael Feathers
 
 ## Troubleshooting
 
