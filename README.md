@@ -15,31 +15,31 @@ A comprehensive workshop on unit testing in Java using JUnit 5 and Mockito.
 
 ## Problems Overview
 
-### Problem 1: Basic Calculator (30 minutes)
+### Problem 1: Basic Calculator
 **Focus**: JUnit basics, assertions, exception testing
 - Simple arithmetic operations
 - Edge cases and boundary conditions
 - Exception handling
 
-### Problem 2: String Utilities (30 minutes)
+### Problem 2: String Utilities
 **Focus**: Parameterized tests, multiple test cases
 - String manipulation methods
 - Parameterized tests with @ValueSource and @CsvSource
 - Handling null and empty inputs
 
-### Problem 3: User Service with Mocking (45 minutes)
+### Problem 3: User Service with Mocking
 **Focus**: Mocking dependencies, verify interactions
 - Service class with repository and email dependencies
 - @Mock and @InjectMocks annotations
 - Stubbing and verification
 
-### Problem 4: TDD Shopping Cart (60 minutes)
+### Problem 4: TDD Shopping Cart
 **Focus**: Test-Driven Development cycle
 - Build shopping cart from scratch using TDD
 - Red-Green-Refactor methodology
 - Incremental feature development
 
-### Problem 5: Legacy Code Testing (35 minutes)
+### Problem 5: Legacy Code Testing
 **Focus**: Testing strategies for difficult code
 - Characterization tests
 - Identifying testing seams
