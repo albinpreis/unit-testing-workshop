@@ -1,6 +1,6 @@
 # Unit Testing Workshop
 
-A comprehensive workshop on unit testing in Java using JUnit 5 and Mockito.
+Workshop on unit testing in Java using JUnit 5 and Mockito.
 
 ## Workshop Structure
 
