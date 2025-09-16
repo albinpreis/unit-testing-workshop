@@ -7,12 +7,13 @@ import java.util.List;
 
 /**
  * LEGACY CODE WARNING: This is intentionally bad code!
- * This class represents typical legacy code issues:
- * - Tight coupling to database
- * - Hard to test dependencies (static calls, new operators)
- * - Mixed responsibilities
- * - No dependency injection
- * - Hard-coded values
+ * <p>
+ * This class represents typical legacy code issues:<p>
+ * - Tight coupling to database<p>
+ * - Hard to test dependencies (static calls, new operators)<p>
+ * - Mixed responsibilities<p>
+ * - No dependency injection<p>
+ * - Hard-coded values<p>
  * - Complex methods doing too many things
  */
 

@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Disabled;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.List;
 
 /**
  * Legacy Code Testing Workshop
@@ -55,7 +56,7 @@ public class OrderProcessorLegacyTest {
     @Test
     void testProcessOrder_InvalidCustomer_ReturnsError() {
         OrderItem item = new OrderItem(1, 2);
-        String result = orderProcessor.processOrder(999, Arrays.asList(item));
+        String result = orderProcessor.processOrder(999, List.of(item));
         assertTrue(result.startsWith("ERROR: Customer not found"));
     }
 
