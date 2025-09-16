@@ -35,7 +35,7 @@ public class ShoppingCartTDDTest {
     void newCartShouldBeEmpty() {
         assertTrue(cart.isEmpty());
         assertEquals(0, cart.getItemCount());
-        assertEquals(new BigDecimal("0.00"), cart.getSubtotal());
+        assertEquals(new BigDecimal("0"), cart.getSubtotal());
     }
 
     // Test 2: Add a single item to cart
@@ -101,7 +101,7 @@ public class ShoppingCartTDDTest {
 
         assertTrue(cart.isEmpty());
         assertEquals(0, cart.getItemCount());
-        assertEquals(new BigDecimal("0.00"), cart.getSubtotal());
+        assertEquals(new BigDecimal("0"), cart.getSubtotal());
     }
 
     // Test 8: Apply discount
