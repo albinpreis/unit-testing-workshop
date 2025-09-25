@@ -78,17 +78,6 @@ Workshop on unit testing in Java using JUnit 5 and Mockito.
    ./gradlew test
    ```
 
-4. **Generate test coverage report**
-   ```bash
-   # Using Maven
-   mvn jacoco:report
-   # View report at target/site/jacoco/index.html
-   
-   # Using Gradle
-   ./gradlew jacocoTestReport
-   # View report at build/reports/jacoco/test/html/index.html
-   ```
-
 ## Working Through Problems
 
 1. Navigate to each problem directory
