@@ -7,7 +7,6 @@ Workshop on unit testing in Java using JUnit 5 and Mockito.
 ### Theory and Fundamentals
 - Unit testing concepts and benefits
 - Test anatomy (Arrange, Act, Assert)
-- JUnit 5 essentials
 - Mocking with Mockito
 - Test-Driven Development introduction
 
